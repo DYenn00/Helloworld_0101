@@ -1,7 +1,4 @@
-### 📄 `ProgrammingFundamentals/loops-made-easy.md`
-
-
-# 🔁 Loops Made Easy
+### 🔁 Loops Made Easy
 
 Loops are one of the most important tools in programming. They allow you to **repeat actions without writing the same code over and over**, making your programs cleaner, faster, and smarter.
 
