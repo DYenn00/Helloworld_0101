@@ -6,7 +6,7 @@ Thanks for your interest in contributing to <B>Helloworld_0101<B>  a blog focuse
 
 This document provides guidelines for how to contribute effectively, respectfully, and collaboratively.
 
----
+
 
 📋 Table of Contents
 
@@ -19,7 +19,7 @@ This document provides guidelines for how to contribute effectively, respectfull
 - [External Resources](#external-resources)
 - [Code of Conduct](#code-of-conduct)
 
----
+
 
  🛠 How to Contribute
 
