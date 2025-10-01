@@ -1,4 +1,4 @@
-# Loops Made Easy (Java Edition)
+# 🧠 Loops Made Easy (Java Edition)
 
 Loops are essential in Java programming. They allow you to **repeat actions** multiple times without writing the same code again and again.
 
