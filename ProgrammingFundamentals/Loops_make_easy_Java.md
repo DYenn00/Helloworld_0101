@@ -1,6 +1,5 @@
-## ProgrammingFundamentals/loops-made-easy-java.md
+## ProgrammingFundamentals/loops-made-easy-java
 
-## `loops-made-easy-java.md`
 
 ---
 # Loops Made Easy (Java Edition)
