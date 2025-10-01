@@ -59,9 +59,4 @@ Happy coding! 💻✨
 
 ✍️ *Created by D.Yenn*  
 📅 *Last updated: October 1, 2025*
-```
-
----
-
-Would you like similar `README.md` templates for the `UX-UI-Design/` or `SoftwareArchitecture/` sections too?
 
