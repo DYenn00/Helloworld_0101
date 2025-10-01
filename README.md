@@ -1,10 +1,9 @@
 
-```markdown
-👩🏽‍💻 Helloworld_0101 Blog
+# **👩🏽‍💻 Helloworld_0101**
 
 Welcome to Helloworld_0101, a blog dedicated to helping people learn how to code, understand UX/UI principles, and master software architecture. Whether you're just starting out or leveling up your skills, this blog aims to be your creative and technical playground.
 
-🎯 Purpose
+## 🎯 Purpose
 
 The goal of this blog is to:
 
@@ -13,7 +12,7 @@ The goal of this blog is to:
 - 🏗️ Demystify software architecture for developers at all levels.
 - 🤝 Bridge the gap between development, design, and structure.
 
-🧠 Topics Covered
+## 🧠 Topics Covered
 
  💻 Coding
 - Beginner to advanced tutorials in languages like Java, JavaScript, Python, HTML/CSS, and more.
@@ -37,12 +36,12 @@ The goal of this blog is to:
 
 
 
-````
- 🚀 Getting Started
 
+## 🚀 Getting Started
+````
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/Yenn97/HelloWorld_0101.git
 cd HelloWorld_0101-blog
 npm install
@@ -51,7 +50,7 @@ npm run dev
 
 Then open your browser at `http://localhost:3000`
 
- ✍️ Contributing
+## ✍️ Contributing
 
 We welcome contributions from the community!
 
@@ -61,13 +60,13 @@ We welcome contributions from the community!
 
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
- 📬 Contact
+## 📬 Contact
 
 Have questions, suggestions, or feedback? Reach out via:
 
  GitHub Issues
 
- 📄 License
+## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
