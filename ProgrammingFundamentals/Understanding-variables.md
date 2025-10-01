@@ -1,6 +1,5 @@
-## 📄 `ProgrammingFundamentals/understanding-variables.md`
 
-#  Understanding Variables
+##  Understanding Variables
 
 Variables are one of the first concepts you’ll encounter when learning to code. Think of a variable as a **labeled container** for data  it holds a value that your program can use or change.
 
