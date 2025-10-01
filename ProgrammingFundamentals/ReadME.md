@@ -1,5 +1,3 @@
-### 📄 `ProgrammingFundamentals/README.md`
-
 # 🧠 Programming Fundamentals
 
 Welcome to the **Programming Fundamentals** section of HelloWorld_0101!
