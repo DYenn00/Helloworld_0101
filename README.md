@@ -30,23 +30,12 @@ The goal of this blog is to:
 - Frontend and backend architecture strategies.
 
  🛠️ Tech Stack (for blog site)
-- **Framework:** [Next.js](https://nextjs.org/) /  [Jekyll](https://jekyllrb.com/)
-- **Styling:** Tailwind CSS / SCSS / CSS-in-JS
-- **Content Management:** Markdown, MDX, or a CMS (e.g., Sanity, Contentful)
-- **Deployment:** GitHub Pages, Vercel, and Netlify
+- Framework: [Next.js](https://nextjs.org/) /  [Jekyll](https://jekyllrb.com/)
+- Styling: Tailwind CSS / SCSS / CSS-in-JS
+- Content Management: Markdown, MDX, or a CMS (e.g., Sanity, Contentful)
+- Deployment: GitHub Pages, Vercel, and Netlify
 
 
-## 📂 Repository Structure
-
-```
-
-.
-├── /posts/            # Blog content (Markdown or MDX files)
-├── /public/           # Static assets (images, icons, etc.)
-├── /components/       # Reusable components
-├── /styles/           # Global and component-level styles
-├── /pages/            # Blog pages and routing
-└── README.md          # This file
 
 ````
  🚀 Getting Started
@@ -66,9 +55,9 @@ Then open your browser at `http://localhost:3000`
 
 We welcome contributions from the community!
 
-* 🐛 Report bugs or issues
-* ✨ Suggest topics or features
-* 📚 Submit blog posts or corrections
+ 🐛 Report bugs or issues
+ ✨ Suggest topics or features
+ 📚 Submit blog posts or corrections
 
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
@@ -76,7 +65,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 Have questions, suggestions, or feedback? Reach out via:
 
-* GitHub Issues
+ GitHub Issues
 
  📄 License
 
