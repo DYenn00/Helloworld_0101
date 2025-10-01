@@ -1,8 +1,8 @@
 
 ````markdown
- p🙌 Contributing to Helloworld_0101 Blog
+ 🙌 Contributing to Helloworld_0101 Blog
 
-Thanks for your interest in contributing to **Helloworld_0101**  a blog focused on coding, UX/UI, and software architecture! 🚀
+Thanks for your interest in contributing to Helloworld_0101  a blog focused on coding, UX/UI, and software architecture! 🚀
 
 This document provides guidelines for how to contribute effectively, respectfully, and collaboratively.
 
