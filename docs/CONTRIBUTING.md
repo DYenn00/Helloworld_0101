@@ -1,8 +1,8 @@
 
 ````markdown
- 🙌 Contributing to Helloworld_0101 Blog
+ p🙌 Contributing to Helloworld_0101 Blog
 
-Thanks for your interest in contributing to <B>Helloworld_0101<B>  a blog focused on coding, UX/UI, and software architecture! 🚀
+Thanks for your interest in contributing to **Helloworld_0101**  a blog focused on coding, UX/UI, and software architecture! 🚀
 
 This document provides guidelines for how to contribute effectively, respectfully, and collaboratively.
 
@@ -10,22 +10,22 @@ This document provides guidelines for how to contribute effectively, respectfull
 
 📋 Table of Contents
 
-- [How to Contribute](#how-to-contribute)
-  - [Reporting Issues](#reporting-issues)
-  - [Suggesting Topics](#suggesting-topics)
-  - [Submitting Pull Requests](#submitting-pull-requests)
-- [Coding & Writing Guidelines](#coding--writing-guidelines)
-- [Community Standards](#community-standards)
-- [External Resources](#external-resources)
-- [Code of Conduct](#code-of-conduct)
+1. [How to Contribute](#how-to-contribute)
+2. [Reporting Issues](#reporting-issues)
+3. [Suggesting Topics](#suggesting-topics)
+4. [Submitting Pull Requests](#submitting-pull-requests)
+5. [Coding & Writing Guidelines](#coding--writing-guidelines)
+6. [Community Standards](#community-standards)
+7. [External Resources](#external-resources)
+8. [Code of Conduct](#code-of-conduct)
 
 
 
- 🛠 How to Contribute
+1. 🛠 How to Contribute
 
 There are several ways you can help:
 
-🐛 Reporting Issues
+2. 🐛 Reporting Issues
 
 Have you found a bug, a typo, or something unclear?
 
@@ -38,7 +38,6 @@ Please open an issue. Include the following:
 
 Template Example:
 
-```md
 Issue Description
 The article on "UX Design Principles" has a broken link to the Figma tutorial.
 
@@ -49,9 +48,9 @@ Steps to Reproduce
 
 Expected Behavior
 The link should open the Figma file.
-````
 
-💡 Suggesting Topics
+
+3. 💡 Suggesting Topics
 
 Have a cool idea for a new article or tutorial?
 
@@ -61,7 +60,7 @@ Open an issue with the `enhancement` or `content suggestion` label and include:
 * Why it’s useful to the community
 * Any references (docs, blog posts, videos)
 
-📦 Submitting Pull Requests (PRs)
+4. 📦 Submitting Pull Requests (PRs)
 
 We welcome improvements to blog posts, code, and documentation!
 
@@ -82,7 +81,7 @@ We'll review and merge or request changes within a few days.
 
 ---
 
-✍️ Coding & Writing Guidelines
+5. ✍️ Coding & Writing Guidelines
 
   For Code
 
@@ -99,7 +98,7 @@ We'll review and merge or request changes within a few days.
 
 ---
 
-🌟 Community Standards
+6. 🌟 Community Standards
 
 We’re building a welcoming and inclusive learning space. Please:
 
@@ -112,7 +111,7 @@ See our full [Code of Conduct](CODE_OF_CONDUCT.md) for more.
 
 ---
 
-📚 External Resources
+7. 📚 External Resources
 
 Here are some helpful references for contributors:
 
@@ -124,7 +123,7 @@ Here are some helpful references for contributors:
 
 ---
 
-📜 Code of Conduct
+8. 📜 Code of Conduct
 
 This project follows a [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a safe and respectful environment. By participating, you agree to uphold these standards.
 
