@@ -30,7 +30,7 @@ We break down each topic with:
 - [What Are Programming Fundamentals?](./what-are-programming-fundamentals.md)
 - [Understanding Variables](./understanding-variables.md)
 - [Loops Made Easy](./loops-made-easy.md)
-- [Loops Made Easy](./loops-made-easy-java.md)
+- [Loops Made Easy (Java)](./loops-made-easy-java.md)
 - [Writing Your First Function](./writing-your-first-function.md)
 - [Intro to Arrays](./intro-to-arrays.md)
 
