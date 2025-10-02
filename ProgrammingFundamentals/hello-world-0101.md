@@ -96,7 +96,7 @@ public class HelloWorld {
 
 ###  What’s Next?
 
-In the next lesson, we’ll explore **variables** the building blocks of any program. You’ll learn how to store data and make your programs smarter.
+In the next lesson, we’ll explore [Understanding Variables](./understanding-variables.md) the building blocks of any program. You’ll learn how to store data and make your programs smarter.
 
 ---
 
