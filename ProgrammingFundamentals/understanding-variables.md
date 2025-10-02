@@ -31,7 +31,7 @@ Variables can hold different **data types**, like:
 * Numbers: `42` (an integer)
 * True/False: `True` / `False` (boolean)
 * Lists or Arrays: `[1, 2, 3]`
-* Objects / Dictionaries: `{ "name": "Alice" }`
+* Objects / Dictionaries: `{ "name": "Kimora" }`
 
 ---
 
