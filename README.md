@@ -42,7 +42,7 @@ The goal of this blog is to:
 Clone the repository:
 
 bash
-git clone https://github.com/Yenn97/HelloWorld_0101.git
+git clone https://github.com/DYenn00/HelloWorld_0101.git
 cd HelloWorld_0101-blog
 npm install
 npm run dev
