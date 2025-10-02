@@ -66,7 +66,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 📧 Email: TBD 😄
 
-🐙 GitHub: [@Yenn97](https://github.com/Yenn97)
+🐙 GitHub: [@DYenn00](https://github.com/DYenn00)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
