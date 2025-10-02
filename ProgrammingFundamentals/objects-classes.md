@@ -1,8 +1,5 @@
 # Understanding Objects Classes
 
-> *"Objects let you organize data in a way that mirrors the real world."*
-
----
 
 ##  What Are Objects?
 
