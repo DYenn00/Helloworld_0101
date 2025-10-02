@@ -34,6 +34,7 @@ We break down each topic with:
 - [Loops Made Easy (Java)](./loops-made-easy-java.md)
 - [Writing Your First Function](./writing-your-first-function.md)
 - [Intro to Arrays](./intro-to-arrays.md)
+- [Objects and Classes](./objects-classes.md)
   
 
 > 📝 *More lessons coming soon. Check back regularly!*
