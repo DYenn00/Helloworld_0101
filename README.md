@@ -37,7 +37,7 @@ The goal of this blog is to:
 
 
 
-## 🚀 Getting Started
+##  Getting Started
 ````
 Clone the repository:
 
@@ -50,13 +50,13 @@ npm run dev
 
 Then open your browser at `http://localhost:3000`
 
-## ✍️ Contributing
+## Contributing
 
 We welcome contributions from the community!
 
- 🐛 Report bugs or issues
- ✨ Suggest topics or features
- 📚 Submit blog posts or corrections
+ - Report bugs or issues
+ - Suggest topics or features
+ - Submit blog posts or corrections
 
 Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
