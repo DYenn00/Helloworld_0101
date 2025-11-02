@@ -71,8 +71,7 @@ Have questions, suggestions, or feedback? Reach out via:
 This project is licensed under the [MIT License](LICENSE.md).
 
 ---
-
-Made with ❤️ to empower developers, designers, and builders of the future.
+Happy learning! ❤️ 
 
 
 ---
